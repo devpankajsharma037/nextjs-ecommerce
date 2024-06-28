@@ -204,7 +204,7 @@ export default function Page() {
             visible={true}
           />
           <p className="text-sm mt-2 font-semibold text-orange-500">
-            Loading Hold Tight ....
+            Loading Please Hold ....
           </p>
         </div>
       ) : (
